@@ -1,0 +1,50 @@
+.EventContainer {
+    /* display: flex; */
+    /* align-content: center; */
+    /* flex-direction: column; */
+    min-height: 75vh;
+}
+.date-container {
+    display: flex;
+    justify-content: center;
+    background: rgba(82, 82, 82, 0.363);
+}
+.picker {
+    position: relative;
+    display: inline-block;
+    margin: 2% 1%;
+}
+.picker label {
+    font-size: 3.5vh;
+}
+.picker input {
+    background: beige;
+    color: rgb(54, 38, 14);
+    font-size: 3.4vh;
+    border: solid black 2px;
+    /* margin: 0 2%; */
+}
+.month-container {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+#month-string {
+    font-size: 3.2vh;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+#get-events-button {
+    border: solid 1px black;
+    background: beige;
+    text-align: center;
+    margin: 1% auto;
+    padding: 10px;
+    width: 20%;
+}
+#get-events-button:hover {
+    cursor: pointer;
+    background: blanchedalmond;
+}

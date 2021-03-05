@@ -1,0 +1,26 @@
+.App {
+  font-family : 'Trebuchet MS', sans-serif;
+}
+#banner, #footer {
+  width: 100%;
+  text-align: center;
+  height: 10vh;
+  background-color: beige;
+  color: rgb(54, 38, 14);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#banner h1 {
+  margin: 0;
+}
+#footer {
+  /* padding: 1% 0; */
+  height: unset;
+  display: inline-block;
+  position: relative;
+  bottom: 0px;
+}
+#footer p {
+  margin: 1.5% 0;
+}
