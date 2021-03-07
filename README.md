@@ -3,6 +3,8 @@
 This simple webapp uses react, redux, thunk and axios to manage state and make requests to display api data
 
 The purpose of this app is to find events that have occurred on a given day of the year (defaults to today) and then look for relevant books on that topic.
+
+You can view this app live on github [here](http://trdancer.github.io/Books-of-History)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
