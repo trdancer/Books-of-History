@@ -1,7 +1,7 @@
 import {SET_DATE_MONTH, SET_DATE_DAY} from './dateActions'
 const today = new Date()
 const initialDateState = {
-    day : today.getDay(),
+    day : today.getDate(),
     month : today.getMonth()+1
 }
 const dateReducer = (state = initialDateState, action) => {
