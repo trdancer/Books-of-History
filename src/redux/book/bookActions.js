@@ -32,7 +32,7 @@ export const fetchBooks = (event_titles, index) => {
         // start request
         dispatch(fetchBooksStartCreator(index))
         //make request
-        const search_url = 'http://openlibrary.org/search.json?q='
+        const search_url = 'https://openlibrary.org/search.json?q='
         let requests = []
         event_titles.forEach((title) => {
             let query_string = title.replace(' ', '+')
