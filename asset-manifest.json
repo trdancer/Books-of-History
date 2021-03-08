@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Books-of-History/static/css/main.cfad8cfa.chunk.css",
-    "main.js": "/Books-of-History/static/js/main.4172d0ef.chunk.js",
-    "main.js.map": "/Books-of-History/static/js/main.4172d0ef.chunk.js.map",
+    "main.js": "/Books-of-History/static/js/main.3a856110.chunk.js",
+    "main.js.map": "/Books-of-History/static/js/main.3a856110.chunk.js.map",
     "runtime-main.js": "/Books-of-History/static/js/runtime-main.72c89519.js",
     "runtime-main.js.map": "/Books-of-History/static/js/runtime-main.72c89519.js.map",
     "static/js/2.2185c094.chunk.js": "/Books-of-History/static/js/2.2185c094.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.72c89519.js",
     "static/js/2.2185c094.chunk.js",
     "static/css/main.cfad8cfa.chunk.css",
-    "static/js/main.4172d0ef.chunk.js"
+    "static/js/main.3a856110.chunk.js"
   ]
 }
